@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "threadsapp",
-    "slug": "threadsapp",
+    "name": "airlineApp",
+    "slug": "airlineApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
